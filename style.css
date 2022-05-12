@@ -272,7 +272,7 @@ body.menu-expended button path {
 #home::before {
   content: '';
   width: 100%; /* 100% do View Window*/
-  height: calc(127% + var(--nav-height));
+  height: calc(137% + var(--nav-height));
   background-color: #dce9e2;
   display: block;
 
